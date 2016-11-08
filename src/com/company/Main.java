@@ -1,9 +1,10 @@
 package com.company;
 
 public class Main {
-
     public static void main(String[] args) {
-	// write your code here
-        System.out.println("Hola mon!");
+        printHola();
+    }
+    public static void printHola(){
+        System.out.println("Hola món!");
     }
 }
