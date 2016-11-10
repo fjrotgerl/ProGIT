@@ -20,5 +20,6 @@ public class Main {
 
         //Comentaris
         System.out.println("Comentari 1");
+        System.out.println("Comentari 2");
     }
 }
