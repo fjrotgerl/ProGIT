@@ -17,5 +17,8 @@ public class Main {
         //Print d'array
         String[] ar = {"Dilluns","Dimarts","Dimecres","Dijous","Divendres","Dissabte","Diumenge"};
         System.out.println(Arrays.toString(ar));
+
+        //Comentaris
+        System.out.println("Comentari 1");
     }
 }
